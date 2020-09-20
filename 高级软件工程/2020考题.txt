@@ -1,0 +1,27 @@
+2020高软
+简答
+黑板 仓库 区别
+mvc三部分功能
+三个有分层结构的设计模式
+坦克大战游戏中的10种设计模式及功能
+
+大题
+补全visitor模式在打印杂志中的代码
+杂志{
+    title；
+    articles[];
+    accept(){ 要求定义 }
+}
+文章{
+    title；
+    contents；
+    accept（）{ 要求定义 }
+}
+printvisitor{
+    visitMagazine(){ to be defined }
+    visitArticle(){ to be defined  }
+}
+
+与15年最后一题类似​。开发视频直播应用，已有腾讯、阿里SDK:
+1） 视频模块应该实现的功能
+2） 给出结构

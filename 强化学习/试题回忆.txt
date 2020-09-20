@@ -1,0 +1,11 @@
+1.判断  4'*5 
+pomdp 等价于完全 mdp
+...简单
+2.选择 5' * 1 
+是softl 策略的是
+e-greedy
+3.比较区别及用作哪些地方 15'*3
+model-based & model-free
+on-policy & off-policy
+value-based & policy-based
+4.写n-step DQN伪代码

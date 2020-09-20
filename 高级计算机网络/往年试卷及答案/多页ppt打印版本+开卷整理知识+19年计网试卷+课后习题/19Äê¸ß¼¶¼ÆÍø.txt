@@ -1,0 +1,9 @@
+前4道原题，
+1.数据中心哪个不是特点 5分
+2.abc胖树的ip地址和路径转发画出来 20分
+3.openflow在snd的第几层及动作action 20分
+4.allow deny  p4写规则 20分
+
+
+20分 NAT在出gateway时候要更改ip的原理，用pyretic写switch的处理过程 match srcip= dstip= fwd（1）
+CCN的成分及如何处理interest包和Data包 15分
